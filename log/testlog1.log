@@ -1,0 +1,180 @@
+2023-12-02 09:54:19,852 [main] INFO ebanking - Login test is starting
+2023-12-02 09:54:25,909 [main] INFO ebanking - url is opened
+2023-12-02 09:54:26,060 [main] INFO ebanking - username typed
+2023-12-02 09:54:26,158 [main] INFO ebanking - password typed
+2023-12-02 09:54:27,558 [main] INFO ebanking - loggin button clicked
+2023-12-02 09:54:27,569 [main] INFO ebanking - title assertion passed
+2023-12-02 09:54:27,570 [main] INFO ebanking - login Testcase is done
+2023-12-02 11:20:54,037 [main] INFO ebanking - user name provided
+2023-12-02 11:20:54,144 [main] INFO ebanking - password provided
+2023-12-02 11:20:59,979 [main] INFO ebanking - user name provided
+2023-12-02 11:21:00,198 [main] INFO ebanking - password provided
+2023-12-02 11:21:06,316 [main] INFO ebanking - user name provided
+2023-12-02 11:21:06,402 [main] INFO ebanking - password provided
+2023-12-02 11:21:12,136 [main] INFO ebanking - user name provided
+2023-12-02 11:21:12,312 [main] INFO ebanking - password provided
+2023-12-02 11:21:17,921 [main] INFO ebanking - user name provided
+2023-12-02 11:21:18,269 [main] INFO ebanking - password provided
+2023-12-02 11:21:24,425 [main] INFO ebanking - user name provided
+2023-12-02 11:21:24,724 [main] INFO ebanking - password provided
+2023-12-02 11:21:28,972 [main] INFO ebanking - Login passed
+2023-12-02 12:14:31,886 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:14:35,527 [main] INFO ebanking - User name is provided
+2023-12-02 12:14:35,667 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:14:39,988 [main] INFO ebanking - providing customer details....
+2023-12-02 12:18:23,803 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:18:28,322 [main] INFO ebanking - User name is provided
+2023-12-02 12:18:28,418 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:18:32,811 [main] INFO ebanking - providing customer details....
+2023-12-02 12:19:21,101 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:19:24,668 [main] INFO ebanking - User name is provided
+2023-12-02 12:19:24,758 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:19:28,983 [main] INFO ebanking - providing customer details....
+2023-12-02 12:19:54,870 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:19:58,482 [main] INFO ebanking - User name is provided
+2023-12-02 12:19:58,571 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:20:02,790 [main] INFO ebanking - providing customer details....
+2023-12-02 12:20:58,905 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:21:02,540 [main] INFO ebanking - User name is provided
+2023-12-02 12:21:02,638 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:21:07,113 [main] INFO ebanking - providing customer details....
+2023-12-02 12:23:13,446 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:23:16,786 [main] INFO ebanking - User name is provided
+2023-12-02 12:23:16,880 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:23:21,193 [main] INFO ebanking - providing customer details....
+2023-12-02 12:24:01,272 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 12:24:04,702 [main] INFO ebanking - User name is provided
+2023-12-02 12:24:04,814 [main] INFO ebanking - Passsword is provided
+2023-12-02 12:24:16,149 [main] INFO ebanking - providing customer details....
+2023-12-02 12:24:30,027 [main] INFO ebanking - validation started....
+2023-12-02 12:24:30,045 [main] INFO ebanking - test case passed....
+2023-12-02 12:24:30,046 [main] INFO ebanking - test case add customer done
+2023-12-02 16:08:08,027 [main] INFO ebanking - Login test is starting
+2023-12-02 16:08:11,646 [main] INFO ebanking - url is opened
+2023-12-02 16:08:11,902 [main] INFO ebanking - username typed
+2023-12-02 16:08:12,055 [main] INFO ebanking - password typed
+2023-12-02 16:08:13,371 [main] INFO ebanking - loggin button clicked
+2023-12-02 16:08:13,387 [main] INFO ebanking - title assertion passed
+2023-12-02 16:08:13,388 [main] INFO ebanking - login Testcase is done
+2023-12-02 16:08:15,035 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 16:08:18,687 [main] INFO ebanking - User name is provided
+2023-12-02 16:08:18,789 [main] INFO ebanking - Passsword is provided
+2023-12-02 16:08:30,298 [main] INFO ebanking - providing customer details....
+2023-12-02 16:08:43,929 [main] INFO ebanking - validation started....
+2023-12-02 16:08:43,948 [main] INFO ebanking - test case passed....
+2023-12-02 16:08:43,950 [main] INFO ebanking - test case add customer done
+2023-12-02 16:34:36,258 [main] INFO ebanking - Login test is starting
+2023-12-02 16:34:41,389 [main] INFO ebanking - url is opened
+2023-12-02 16:34:41,534 [main] INFO ebanking - username typed
+2023-12-02 16:34:41,645 [main] INFO ebanking - password typed
+2023-12-02 16:34:42,849 [main] INFO ebanking - loggin button clicked
+2023-12-02 16:34:42,859 [main] INFO ebanking - title assertion passed
+2023-12-02 16:34:42,859 [main] INFO ebanking - login Testcase is done
+2023-12-02 16:34:43,975 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 16:34:47,749 [main] INFO ebanking - User name is provided
+2023-12-02 16:34:47,848 [main] INFO ebanking - Passsword is provided
+2023-12-02 16:34:59,155 [main] INFO ebanking - providing customer details....
+2023-12-02 16:35:17,953 [main] INFO ebanking - Login test is starting
+2023-12-02 16:35:22,434 [main] INFO ebanking - url is opened
+2023-12-02 16:35:22,573 [main] INFO ebanking - username typed
+2023-12-02 16:35:22,670 [main] INFO ebanking - password typed
+2023-12-02 16:35:24,776 [main] INFO ebanking - loggin button clicked
+2023-12-02 16:35:24,789 [main] INFO ebanking - title assertion passed
+2023-12-02 16:35:24,789 [main] INFO ebanking - login Testcase is done
+2023-12-02 16:35:25,949 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 16:35:29,927 [main] INFO ebanking - User name is provided
+2023-12-02 16:35:30,042 [main] INFO ebanking - Passsword is provided
+2023-12-02 16:35:42,414 [main] INFO ebanking - providing customer details....
+2023-12-02 16:35:56,205 [main] INFO ebanking - validation started....
+2023-12-02 16:35:56,219 [main] INFO ebanking - test case passed....
+2023-12-02 16:35:56,219 [main] INFO ebanking - test case add customer done
+2023-12-02 17:04:56,151 [main] INFO ebanking - Login test is starting
+2023-12-02 17:05:00,887 [main] INFO ebanking - url is opened
+2023-12-02 17:05:01,033 [main] INFO ebanking - username typed
+2023-12-02 17:05:01,200 [main] INFO ebanking - password typed
+2023-12-02 17:05:03,254 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:05:03,269 [main] INFO ebanking - title assertion passed
+2023-12-02 17:05:03,270 [main] INFO ebanking - login Testcase is done
+2023-12-02 17:05:04,403 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:05:09,212 [main] INFO ebanking - User name is provided
+2023-12-02 17:05:09,330 [main] INFO ebanking - Passsword is provided
+2023-12-02 17:05:20,850 [main] INFO ebanking - providing customer details....
+2023-12-02 17:05:34,386 [main] INFO ebanking - validation started....
+2023-12-02 17:05:34,411 [main] INFO ebanking - test case passed....
+2023-12-02 17:05:34,411 [main] INFO ebanking - test case add customer done
+2023-12-02 17:06:19,004 [main] INFO ebanking - Login test is starting
+2023-12-02 17:06:22,694 [main] INFO ebanking - url is opened
+2023-12-02 17:06:22,821 [main] INFO ebanking - username typed
+2023-12-02 17:06:22,913 [main] INFO ebanking - password typed
+2023-12-02 17:06:24,148 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:06:24,169 [main] INFO ebanking - title assertion passed
+2023-12-02 17:06:24,170 [main] INFO ebanking - login Testcase is done
+2023-12-02 17:06:25,104 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:06:47,125 [main] INFO ebanking - Login test is starting
+2023-12-02 17:06:48,801 [main] INFO ebanking - url is opened
+2023-12-02 17:06:50,143 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:31:33,205 [main] INFO ebanking - Login test is starting
+2023-12-02 17:31:36,797 [main] INFO ebanking - url is opened
+2023-12-02 17:31:36,959 [main] INFO ebanking - username typed
+2023-12-02 17:31:37,104 [main] INFO ebanking - password typed
+2023-12-02 17:31:38,306 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:31:38,315 [main] INFO ebanking - title assertion passed
+2023-12-02 17:31:38,316 [main] INFO ebanking - login Testcase is done
+2023-12-02 17:31:39,467 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:31:45,712 [main] INFO ebanking - User name is provided
+2023-12-02 17:31:45,879 [main] INFO ebanking - Passsword is provided
+2023-12-02 17:31:57,865 [main] INFO ebanking - providing customer details....
+2023-12-02 17:32:10,583 [main] INFO ebanking - validation started....
+2023-12-02 17:32:40,405 [main] INFO ebanking - Login test is starting
+2023-12-02 17:32:44,173 [main] INFO ebanking - url is opened
+2023-12-02 17:32:44,322 [main] INFO ebanking - username typed
+2023-12-02 17:32:44,550 [main] INFO ebanking - password typed
+2023-12-02 17:32:47,290 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:32:47,300 [main] INFO ebanking - title assertion passed
+2023-12-02 17:32:47,301 [main] INFO ebanking - login Testcase is done
+2023-12-02 17:32:48,283 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:32:51,882 [main] INFO ebanking - User name is provided
+2023-12-02 17:32:51,991 [main] INFO ebanking - Passsword is provided
+2023-12-02 17:33:04,326 [main] INFO ebanking - providing customer details....
+2023-12-02 17:33:18,091 [main] INFO ebanking - validation started....
+2023-12-02 17:33:18,117 [main] INFO ebanking - test case passed....
+2023-12-02 17:33:18,118 [main] INFO ebanking - test case add customer done
+2023-12-02 17:39:45,788 [main] INFO ebanking - Login test is starting
+2023-12-02 17:39:47,645 [main] INFO ebanking - url is opened
+2023-12-02 17:39:52,270 [main] INFO ebanking - username typed
+2023-12-02 17:39:52,432 [main] INFO ebanking - password typed
+2023-12-02 17:39:54,383 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:39:54,395 [main] INFO ebanking - title assertion passed
+2023-12-02 17:39:54,396 [main] INFO ebanking - login Testcase is done
+2023-12-02 17:39:55,414 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:39:59,747 [main] INFO ebanking - User name is provided
+2023-12-02 17:39:59,845 [main] INFO ebanking - Passsword is provided
+2023-12-02 17:40:11,383 [main] INFO ebanking - providing customer details....
+2023-12-02 17:40:25,180 [main] INFO ebanking - validation started....
+2023-12-02 17:40:25,217 [main] INFO ebanking - test case passed....
+2023-12-02 17:40:25,218 [main] INFO ebanking - test case add customer done
+2023-12-02 17:47:56,758 [main] INFO ebanking - Login test is starting
+2023-12-02 17:47:57,620 [main] INFO ebanking - url is opened
+2023-12-02 17:48:00,222 [main] INFO ebanking - username typed
+2023-12-02 17:48:00,313 [main] INFO ebanking - password typed
+2023-12-02 17:48:01,334 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:48:01,343 [main] INFO ebanking - title assertion passed
+2023-12-02 17:48:01,343 [main] INFO ebanking - login Testcase is done
+2023-12-02 17:48:02,512 [main] INFO ebanking - test case add customer getting executed
+2023-12-02 17:48:06,041 [main] INFO ebanking - User name is provided
+2023-12-02 17:48:06,125 [main] INFO ebanking - Passsword is provided
+2023-12-02 17:48:17,473 [main] INFO ebanking - providing customer details....
+2023-12-02 17:53:19,180 [main] INFO ebanking - Login test is starting
+2023-12-02 17:53:21,039 [main] INFO ebanking - url is opened
+2023-12-02 17:53:25,353 [main] INFO ebanking - username typed
+2023-12-02 17:53:25,459 [main] INFO ebanking - password typed
+2023-12-02 17:53:26,702 [main] INFO ebanking - loggin button clicked
+2023-12-02 17:53:26,714 [main] INFO ebanking - title assertion passed
+2023-12-02 17:53:26,715 [main] INFO ebanking - login Testcase is done
+2023-12-02 18:14:28,809 [main] INFO ebanking - Login test is starting
+2023-12-02 18:14:33,802 [main] INFO ebanking - url is opened
+2023-12-02 18:14:34,001 [main] INFO ebanking - username typed
+2023-12-02 18:14:34,105 [main] INFO ebanking - password typed
+2023-12-02 18:14:35,148 [main] INFO ebanking - loggin button clicked
+2023-12-02 18:14:35,157 [main] INFO ebanking - title assertion passed
+2023-12-02 18:14:35,157 [main] INFO ebanking - login Testcase is done
